@@ -1,7 +1,7 @@
 # jpa02-madisonlong1
 
 
-Repo: https://github.com/ucsb-cs156-f23/jpa03-madisonlong1
+Repo: https://github.com/ucsb-cs156-f23/jpa02-madisonlong1
 
 Deployed at: http://jpa02-madisonlong1.dokku-03.cs.ucsb.edu/
 
